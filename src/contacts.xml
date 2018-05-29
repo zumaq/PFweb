@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <contact>
+    <title>Pianoforce Europe</title>
+    <address>
+      <content>Pianoforce Europe</content>
+      <content>EU Headquarter, RD Centre, Warehouse</content>
+      <content>Pianoforce s.r.o.</content>
+      <content>Račianska 66</content>
+      <content>831 02 Bratislava</content>
+      <content>Slovakia</content>
+    </address>
+    <links>
+      <link>pianoforce@pianoforce.eu</link>
+      <link>support@pianoforce.eu</link>
+    </links>
+  </contact>
+  <contact>
+    <title>U.K. distribution for Stahler Pianos</title>
+    <address>
+      <content>Countrywide Piano Centre Ltd</content>
+      <content>194 Penn Road</content>
+      <content>High Wycombe</content>
+      <content>Buckinghamshire</content>
+      <content>England</content>
+      <content>Tel: 01494 813388</content>
+    </address>
+    <links>
+      <link>info@countrywidepianos.co.uk</link>
+      <link>www.countrywidepianos.co.uk</link>
+    </links>
+  </contact>
+  <contact>
+    <title>Czech republic</title>
+    <address>
+      <content>Turek pianos s.r.o. </content>
+      <content>Smetanovo Nábřeží 1189 / 16</content>
+      <content>Hradec Králové , 500 02</content>
+      <content>Mobil: + 420 777 550 566</content>
+    </address>
+    <links>
+      <link>turek@turekpianos.com</link>
+      <link>www.turekpianos.com</link>
+    </links>
+  </contact>
+</database>
